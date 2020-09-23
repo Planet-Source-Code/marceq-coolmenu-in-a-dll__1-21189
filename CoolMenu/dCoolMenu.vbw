@@ -1,0 +1,6 @@
+cCoolMenu = 44, 44, 552, 492, C
+CMyItemData = 176, 176, 684, 624, C
+CMyItemDatas = 198, 198, 706, 646, C
+WndCoolMenu = 0, 0, 508, 448, C
+mCoolMenu = 22, 22, 530, 470, C
+HelpCallBack = 220, 220, 728, 668, C
